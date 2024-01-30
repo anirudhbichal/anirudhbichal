@@ -2,7 +2,7 @@
 
 ## About Me
 👨‍💻 I'm a Software Engineer with a passion for Digtal Transformation/Creating Rich User Interfaces.
-🎓 I specialize in Fullstack Development using Javasctip.
+🎓 I specialize in Fullstack Development using Javascript.
 
 ## Skills
 - Languages: JavaScript, Typescript
@@ -11,7 +11,7 @@
 
 
 ## Connect with Me
-- LinkedIn: [[Your LinkedIn](LinkedIn URL)](https://www.linkedin.com/in/anirudh-bichal-11248567/)
+- LinkedIn: [(https://www.linkedin.com/in/anirudh-bichal-11248567/)]
 
 
 <!--
